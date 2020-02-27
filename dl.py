@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# Author: u/kindw
 # Thread: https://redd.it/f26802
 # Description: Async, hackable script to download all the fruit images quickly (7584 images spread over 380 pages).
 
